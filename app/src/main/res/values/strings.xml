@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sticker maker</string>
+    <string name="title_activity_saved_stickers">SavedStickersActivity</string>
+    <string name="title_activity_sticker_preview">StickerPreviewActivity</string>
+</resources>
